@@ -8,3 +8,4 @@ Manual
 3. File check_type.py provides validation of variables (features)
 4. The file main.py deploy the server. After launching, you should go to http://127.0.0.1:8000/docs and use post to send new features for calculation by the model
 5. The encoder_car_dataset.pkl file contains a trained encoder
+6. You can install all the necessary libraries using the command in the terminal: pip install -r requirements.txt
